@@ -10,3 +10,4 @@ for c in range(1, 501, 2):
 
 # Imprime a soma total e o número de valores que atenderam à condição.
 print(f'A soma de todos os {cont} valores solicitados é {soma}')
+
